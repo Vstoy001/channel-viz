@@ -1,6 +1,6 @@
 (function ( $ ){
-	var defaultKey		= '823305314', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [x, y, z], // Comma separated array of Xively Feed ID numbers
+	var defaultKey		= 'FyX0qiFG5ihcRH31uJlILTxcjGI3vx28rOavL3aOWTjuiQY1', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [823305314], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Phone Location', // Replaces Xively logo in the header
 		dataDuration	= '1', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 60, // Default interval for data to be displayed (in seconds)
